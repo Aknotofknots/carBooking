@@ -1,29 +1,20 @@
 # Car Rental Supreme
+
 ### What is it ?
-A schoolproject for the course advanced webb application development for the vocational school Lernia.
+A schoolproject for the course advanced webb application development for the vocational school Lernia located in Stockholm.
 
 ### By Who ?
 Christian Alsén, Håkan Arnoldsson and Vaisshnavi Janani
 
 ### Who has done what ?
 
-**Håkan Arnoldsson** -
 
-* Main theme for the page,
-* Datetime picker implementation
+**Christian Ahlsén** -
+* Login system Implementation
 * Routing implementation
-
-**Vaisshnavi Janani** -
-* Filtering for specific features of a car
-* Booking functionality
-* Routing implementation
-* Customer database initial set up
-* Mocha unit testing for most endpoints
-
-### By Who ?
-Christian Alsén, Håkan Arnoldsson and Vaisshnavi Janani
-
-### Who has done what ?
+* Cancel booking functionality
+* Database setup
+* Mocha unit testing
 
 **Håkan Arnoldsson** - 
 
@@ -35,13 +26,5 @@ Christian Alsén, Håkan Arnoldsson and Vaisshnavi Janani
 * Filtering for specific features of a car
 * Booking functionality
 * Routing implementation
-* Customer Database
-* Mocha unit testing
-
-
-**Christian Ahlsén** -
-* Login system Implementation
-* Routing implementation
-* Cancel booking functionality
-* Database setup
-* Mocha unit testing
+* Customer database initial set up
+* Mocha unit testing for most endpoints
